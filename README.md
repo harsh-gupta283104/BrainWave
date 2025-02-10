@@ -1,4 +1,5 @@
 <div align="center">
+  <h1>Made By Harsh Gupta</h1>
   <br />
     <a href="https://youtu.be/B91wc5dCEBA" target="_blank">
       <img src="https://i.ibb.co/Kqdv8j1/Image-from.png" alt="Project Banner">
